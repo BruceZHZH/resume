@@ -170,7 +170,7 @@ progress::-moz-progress-value {
 }
 
 .weixin{
-    margin-top: 20px;
+    margin-top: 18px;
     background-color: #e0eaf0;   
     position: relative;
     padding-top: 40px;
@@ -187,17 +187,19 @@ progress::-moz-progress-value {
     width: 120px;
 }
 
+/*background-image:url('https://avatars0.githubusercontent.com/u/21081491?v=3&s=460');*/
+
 .portrait {
     margin: 0 auto;
-    margin-top:20px;
+    margin-top:10px;
     margin-bottom: 10px;
-    background-image:url('https://avatars0.githubusercontent.com/u/21081491?v=3&s=460');
-    background-size: 120%;
+    background-image:url("../../photo.jpg");
+    background-size: 80%;
     background-position:center;
     border-radius:50%;
     border:5px solid #607d8b;
-    width:160px;
-    height:160px;
+    width:185px;
+    height:185px;
 }
 
 
